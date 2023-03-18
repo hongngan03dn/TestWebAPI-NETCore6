@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using TestWebAPIByVSPurple.Entities;
+using TestWebAPIByVSPurple.Models;
 
 namespace TestWebAPIByVSPurple.Controllers
 {
@@ -9,16 +12,19 @@ namespace TestWebAPIByVSPurple.Controllers
     public class CategoriesController : ControllerBase
     {
         private readonly MyShopContext _context;
+        private readonly IMapper _mapper;
 
-        public CategoriesController(MyShopContext ctx)
+        public CategoriesController(MyShopContext ctx, IMapper mapper)
         {
             _context = ctx;
+            _mapper = mapper;
         }
 
         [HttpGet]
         public IActionResult GetAll()
         {
-            return Ok(_context.Categories.ToList());
+            var categories = _context.Categories.ToList();
+            return Ok(_mapper.Map<List<CategoryModel>>(categories));
         }
     }
 }
