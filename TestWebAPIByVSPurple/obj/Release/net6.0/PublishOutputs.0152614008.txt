@@ -1,0 +1,11 @@
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\TestWebAPIByVSPurple.exe
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\TestWebAPIByVSPurple.dll
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\TestWebAPIByVSPurple.deps.json
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\TestWebAPIByVSPurple.runtimeconfig.json
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\TestWebAPIByVSPurple.pdb
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\StudyWebAPI\TestWebAPIByVSPurple\TestWebAPIByVSPurple\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
